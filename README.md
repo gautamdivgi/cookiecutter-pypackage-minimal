@@ -27,7 +27,7 @@ $ git clone https://github.com/gautamdivgi/message-transformer
 $ cookiecutter --overwrite-if-exists https://github.com/gautamdivgi/cookiecutter-pypackage-minimal 
 
 full_name [John Q Public]: Gautam Divgi
-email [john.q.public@att.com]: gautamdivgi@some-random-email.com
+email [john.q.public@github.com]: gautamdivgi@some-random-email.com
 repo_name [Git Repo Name]: message-transformer
 package_name [message_transformer]: 
 project_short_description [Python Boilerplate contains all the boilerplate you need to create a Python package.]: Some completely useless JSON transformation
