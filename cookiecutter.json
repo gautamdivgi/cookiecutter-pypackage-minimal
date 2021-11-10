@@ -1,6 +1,6 @@
 {
   "full_name": "John Q Public",
-  "email": "john.q.public@att.com",
+  "email": "john.q.public@github.com",
   "repo_name": "Git Repo Name",
   "package_name": "{{ cookiecutter.repo_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package."
